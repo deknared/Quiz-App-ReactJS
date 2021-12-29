@@ -4,7 +4,7 @@ A standard SPA quiz that consists of seven questions and answers, which was buil
 # How to Run the App
 ```
 git clone https://github.com/deknared/Quiz-App-ReactJS
-cd Quiz-App-ReactJS
+cd Quiz-App-ReactJS/quiz-react-app
 npm install
 npm run start
 ```
