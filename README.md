@@ -13,4 +13,4 @@ npm run start
 
 # Authors
 
-[@deknared] github.com/deknared
+- [@deknared](github.com/deknared)
