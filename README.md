@@ -13,4 +13,5 @@ npm run start
 
 # Authors
 
-- [@deknared](github.com/deknared)
+- [@deknared](https://github.com/deknared)
+- [@Prakhar2325](https://github.com/Prakhar2325)
