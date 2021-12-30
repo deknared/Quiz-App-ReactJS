@@ -15,3 +15,4 @@ npm run start
 
 - [@deknared](https://github.com/deknared)
 - [@Prakhar2325](https://github.com/Prakhar2325)
+- [@radhikabarve](https://github.com/radhikabarve)
